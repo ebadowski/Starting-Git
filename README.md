@@ -1,2 +1,2 @@
-# Starting-Git
+# StartingGit
 Git Hub Demo Repository
